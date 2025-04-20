@@ -1,1 +1,0 @@
-""" SECCION B : información a obtener: consultas al dataset principal"""
